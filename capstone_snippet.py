@@ -2,6 +2,8 @@
 # Alice Topping
 # Python Capstone Project
 
+# for review!! 
+
 # outline
 
 # house members data: name, ID, state, district 
